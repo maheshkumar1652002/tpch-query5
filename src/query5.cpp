@@ -11,6 +11,7 @@ bool parseArgs(int argc, char* argv[], std::string& r_name, std::string& start_d
     // TODO: Implement command line argument parsing
     // Example: --r_name ASIA --start_date 1994-01-01 --end_date 1995-01-01 --threads 4 --table_path /path/to/tables --result_path /path/to/results
     return false;
+    // hiiiii
 }
 
 // Function to read TPCH data from the specified paths
