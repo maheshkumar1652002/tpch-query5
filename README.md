@@ -18,7 +18,7 @@ Task is to implement TPCH Query 5 using C++ and multithreading.
 | 4      | **Screenshot**    | Attach a screenshot showing the program running with the result visible.                                            |
 
 >**Note : Submissions without above 4 details would be considered as incomplete** 
-hiiii
+
 ## Query 5
 ```
 select 
